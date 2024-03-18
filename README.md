@@ -1,4 +1,4 @@
-## Descripciíon
+## Descripción
 
 El agente permite la creación de una identidad digital auto-soberana. 
 También crea, recibe y comparte credenciales verificables.
@@ -14,6 +14,7 @@ La aplicación cuenta con las siguientes tecnologías:
 - Typescript 2.0.4
 
 ## Diagramas
+[Link](https://docs.quarkid.org/Arquitectura/arquitectura/) 
 
 ## Licencia
 
